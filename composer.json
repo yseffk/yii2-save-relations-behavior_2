@@ -1,5 +1,5 @@
 {
-    "name": "la-haute-societe/yii2-save-relations-behavior",
+    "name": "yseffk/yii2-save-relations-behavior_2",
     "description": "Validate and save automatically related Active Record models.",
     "type": "yii2-extension",
     "keywords": [
@@ -16,8 +16,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Alban Jubert",
-            "email": "alban@lahautesociete.com"
+            "name": "WWA",
+            "email": ""
         }
     ],
     "require": {
